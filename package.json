@@ -1,0 +1,17 @@
+{
+  "name": "com.kudos.network",
+  "version": "0.1.0",
+  "displayName": "Kudos Network Solution",
+  "description": "Bespoke P2P networking SDK for the Kudos social VR platform. WebRTC transport (Windows/macOS/Quest/WebGL), distributed authority, fill-or-create rooms, host migration, reconnect grace, interest management, moderation, integrated spatial VOIP.",
+  "unity": "2022.3",
+  "author": { "name": "Kudos" },
+  "keywords": ["networking", "webrtc", "voip", "vr", "multiplayer"],
+  "documentationUrl": "https://github.com/YOUR-ORG/kudos-network#readme",
+  "samples": [
+    {
+      "displayName": "KNS Examples",
+      "description": "Seven annotated scripts covering the three core patterns: connection bootstrap, synced door, chat, grabbables, nameplates, host spawning, voice mute.",
+      "path": "Samples~/Examples"
+    }
+  ]
+}

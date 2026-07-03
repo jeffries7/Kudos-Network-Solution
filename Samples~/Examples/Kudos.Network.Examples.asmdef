@@ -1,0 +1,14 @@
+{
+  "name": "Kudos.Network.Examples",
+  "rootNamespace": "Kudos.Network.Examples",
+  "references": ["Kudos.Network"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

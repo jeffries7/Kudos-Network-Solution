@@ -1,0 +1,12 @@
+{
+  "name": "kudos-nexus",
+  "version": "0.1.0",
+  "description": "Kudos Network Solution - self-hosted signaling + room registry",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
