@@ -134,7 +134,7 @@ Headsets drop Wi-Fi constantly. When a client's connection dies, the host now ma
 
 1. **Install the package** — in Unity: *Window → Package Manager → + → Add package from git URL*:
    ```
-   https://github.com/YOUR-ORG/kudos-network.git#v0.1.0
+   https://github.com/jeffries7/Kudos-Network-Solution.git
    ```
    (Requires Git on your machine. Pin a tag as shown; omit `#v0.1.0` to track the default branch. Alternatively clone the repo and *Add package from disk*, or copy it into `Packages/com.kudos.network/` to hack on it directly.)
 2. **Import the examples** (optional): select the package in Package Manager → *Samples* tab → **Import** next to "KNS Examples". They land in `Assets/Samples/` as editable copies.
